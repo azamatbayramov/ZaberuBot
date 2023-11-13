@@ -8,7 +8,7 @@ ADMIN_ID = os.getenv("ADMIN_ID")
 
 MESSAGE_TO_REPLY = "Необычное предложение. Где вы находитесь?"
 MESSAGE_TO_NOTIFY = "Пользователь написал сообщение:"
-KEYWORDS = ["otdam"]
+KEYWORDS = ["otda"]
 
 bot = aiogram.Bot(token=BOT_TOKEN)
 
