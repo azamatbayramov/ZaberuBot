@@ -6,7 +6,7 @@ import os
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = os.getenv("ADMIN_ID")
 
-MESSAGE_TO_REPLY = "Возможно заберу. Куда подходить?"
+MESSAGE_TO_REPLY = "Необычное предложение. Где вы находитесь?"
 MESSAGE_TO_NOTIFY = "Пользователь написал сообщение:"
 KEYWORDS = ["отдам"]
 
